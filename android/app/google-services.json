@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705815324488",
+    "project_id": "online-a8e1f",
+    "storage_bucket": "online-a8e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705815324488:android:17188ab5f7effecf2c757d",
+        "android_client_info": {
+          "package_name": "spc.login.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705815324488-1l6j8ses5jgscuqlobu5rdofg4f36b6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gjJ9-1qaB4-hqr3dNp3-URCd0Mc1zqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705815324488-1l6j8ses5jgscuqlobu5rdofg4f36b6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
